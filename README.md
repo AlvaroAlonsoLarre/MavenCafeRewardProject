@@ -3,6 +3,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+![Report](https://raw.githubusercontent.com/AlvaroAlonsoLarre/MavenCafeRewardProject/refs/heads/main/ImagenPantallas.png)
 
 ## Foreword
 After running a test by sending different combinations of promotional offers to existing rewards members, Maven Cafe needs to develop future marketing strategies. Using the 30-day period test I analysed the dataset to create a report that shows the conclusions and the proposal for the company. 

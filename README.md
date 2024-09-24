@@ -5,6 +5,8 @@
 
 ![Report](https://raw.githubusercontent.com/AlvaroAlonsoLarre/MavenCafeRewardProject/refs/heads/main/ImagenPantallas.png)
 
+📊 **Link to the Report** (https://app.powerbi.com/reportEmbed?reportId=272d0377-9a59-4b8a-9884-4a241551b632&autoAuth=true&ctid=b737ad62-dbe1-4e32-9914-a203a54d243e)
+
 ## Foreword
 After running a test by sending different combinations of promotional offers to existing rewards members, Maven Cafe needs to develop future marketing strategies. Using the 30-day period test I analysed the dataset to create a report that shows the conclusions and the proposal for the company. 
 

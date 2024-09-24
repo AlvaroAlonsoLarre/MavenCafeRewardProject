@@ -38,12 +38,17 @@ After filtering, it was necessary to modify the tables to shed some light on the
 
 ## Data Analysis
 During the data analysis, I created many calculated columns, dynamic tables and visualizations that allowed me to compare and study the dataset.
+
 I started calculating the average customer profile and I compared the different customer segments to three different parameters: nº transactions/customer, amount/transaction and amount/customer. I also compered the customer segments to the total amount spent and the total number of transactions.
+
 The offers were also analysed. Firstly, I analysed the influence of the channels used to send the offers over the customers answer. This offer parameter was the only one which had any relevance about the visualization of the offers.
-Channels were compared and analysed among them and were also compared to the different customer segments.  The % offers viewed and the hours until be viewed were the parameters considerate.
+Channels were compared and analysed among them and were also compared to the different customer segments. The % offers viewed and the hours until be viewed were the parameters considerate.
+
 Secondly, the different offers were analysed. In this case, difficulty, reward and duration were compared to conclude which offer was the most successful, which was the fastest completed and which was the most profitable.
 Moreover, I analysed which parameter (difficulty, reward and duration) had more impact on completing the offer.
+
 Finally, time between offer campaigns and their influence customer’s transactions was studied.
+
 Once customers and offers were analysed separately, I analysed both together. The correlation between the different offer parameters and customers answer was calculated to find out the best offer type and the best channel for each customer segment.
 
 ## Summary
